@@ -1,0 +1,4 @@
+#Sat Jul 27 22:29:45 CST 2019
+base.0=/Users/devyk/Data/Project/sample/android_devyk/YKEventBus/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/Users/devyk/Data/Project/sample/android_devyk/YKEventBus/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yangkun19921001:YEventBus:v1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YEventBus-v1.0.aar/537233c8a2e9be47536c37b401e17505/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YEventBus-v1.0.aar/537233c8a2e9be47536c37b401e17505/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yangkun19921001/YEventBus/v1.0/c29927230722ae188b68e9fcf63faf2fd9fff4dc/YEventBus-v1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
